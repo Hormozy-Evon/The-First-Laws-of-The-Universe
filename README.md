@@ -1,8 +1,8 @@
 # G
 
-All of computing operates under this Law.
+All of computing operates under these Laws.
 
-It is my gift to the World.
+They are my gift to the World.
 
 Thank you for your time,
 
