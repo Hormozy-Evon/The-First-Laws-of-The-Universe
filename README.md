@@ -1,4 +1,4 @@
-# G
+# Laws
 
 All of computing and science operate under these Laws as of Tuesday, August 8, 2023 Anno Domini.
 
