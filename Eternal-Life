@@ -1,6 +1,0 @@
-P(φ|φ) ≡ P(-φ|-φ)
-P(-φ|-φ) ≡ P(φ|φ)
-
-Solution One: P(φ|φ)^+-|∞
-Solution Two: P(φ|φ)^-+|∞
-Solution Three: P(φ|φ)^+--+|∞
